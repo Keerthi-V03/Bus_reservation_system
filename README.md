@@ -18,12 +18,12 @@ Testing: Mocha, Chai
 
 PROJECT CREATED BY : 
 
-# LOGIN DETAILS:
+## LOGIN DETAILS:
 
 User name: admin
 Password:admin
 
-# Project Running steps:
+## Project Running steps:
 
 python manage.py makemigrations
 python manage.py migrate
